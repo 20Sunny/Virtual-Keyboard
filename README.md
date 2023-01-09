@@ -3,4 +3,4 @@
 pip install cv2
 pip install cvzone
 pip install time
-
+pip install numpy
